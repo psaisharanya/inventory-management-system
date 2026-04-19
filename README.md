@@ -28,7 +28,7 @@ This repository contains a Next.js frontend and local backend support for an inv
    ```powershell
    npm run dev
    ```
-4. Open the app in the browser at `http://localhost:3000` (for local development) or visit the deployed version at `https://inventory-management-system.vercel.app`.
+4. Open the app in the browser at `http://localhost:3000` (for local development) or visit the deployed version at `https://inventory-management-system-seven-smoky.vercel.app`.
 
 ## Deployment
 
